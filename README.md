@@ -6,4 +6,4 @@ This is an modified version of eaglercraft
 
 This is an modified version get the real at:
 
-# eaglercarft.com 
+# eaglercraft.com 
